@@ -1,0 +1,22 @@
+{
+  "baseline_date": "2026-10-14",
+  "target_repository": "chuhanma2-coder/points-GPTandCODEXsharefile",
+  "current_basis": "会议审核MD与原始V7 Excel",
+  "v8_enabled": false,
+  "files": [
+    {
+      "original_filename": "Mint_V2.0.0_埋点需求_单文档评审版(1).md",
+      "repository_path": "baseline/md/Mint_V2.0.0_埋点需求_单文档评审版.md",
+      "size_bytes": 4345139,
+      "sha256": "1d9af87f9ad4716254319ff4e2e69e2b2d354f29990d46139f46ad3f2af6f3a4",
+      "content_modified": false
+    },
+    {
+      "original_filename": "Mint_埋点开发清单_统计方式_V7(1).xlsx",
+      "repository_path": "baseline/excel/Mint_埋点开发清单_统计方式_V7.xlsx",
+      "size_bytes": 761743,
+      "sha256": "2cb05addf251fe53726dc1706762bf7d020d26cd1e1690a894d3c74cbdd0b154",
+      "content_modified": false
+    }
+  ]
+}
